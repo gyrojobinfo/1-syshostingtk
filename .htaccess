@@ -1,4 +1,3 @@
-
 RewriteEngine on
 RewriteBase /
 rewritecond %{http_host} ^syshosting.tk [nc]
